@@ -131,10 +131,11 @@ footer a:active{
 
 /*авторизация*/
 main .login_main_div{
-    background: black;
-    width: 480px;
-    height: 480px;
+    background: #36393f;
+    width: 425px;
+    height: 425px;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 200px
+    margin-top: 200px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
